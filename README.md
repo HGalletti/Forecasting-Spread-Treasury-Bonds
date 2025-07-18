@@ -33,10 +33,15 @@ The interest rate differential is often considered a key indicator of economic h
 ## **Repository Structure**
 
 ├── GS10_GS2_Daily.csv
+
 ├── README.md
+
 ├── SARIMA.ipynb
+
 ├── SP500_diario_2000-2025.csv
+
 ├── VIX_diario_2000-2025.csv
+
 ├── WTI_diario_2000-2025.csv
 
 ## **Key Results**
@@ -109,10 +114,15 @@ El diferencial de tasas de interés a menudo se considera un indicador clave de 
 ## **Estructura del Repositorio**
 
 ├── GS10_GS2_Daily.csv
+
 ├── README.md
+
 ├── SARIMA.ipynb
+
 ├── SP500_diario_2000-2025.csv
+
 ├── VIX_diario_2000-2025.csv
+
 ├── WTI_diario_2000-2025.csv
 
 ## **Resultados Clave**
